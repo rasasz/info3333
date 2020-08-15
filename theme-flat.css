@@ -1,0 +1,355 @@
+/* supreme 1.7.2 */
+.btn-primary,
+button.wa-button,
+input.wa-button,
+.storequickorder-button,
+#storequickorder .submit-button,
+.wa-login-form-wrapper input[type=submit],
+.wa-forgotpassword-form-wrapper input[type=submit],
+.wa-signup-form-wrapper input[type=submit],
+.wa-product-edit-dialog .wa-dialog-footer .wa-actions .wa-button {
+  background-color: #008fc3;
+  color: #fff;
+}
+
+.btn-primary:hover, .btn-primary:focus,
+button.wa-button:hover,
+button.wa-button:focus,
+input.wa-button:hover,
+input.wa-button:focus,
+.storequickorder-button:hover,
+.storequickorder-button:focus,
+#storequickorder .submit-button:hover,
+#storequickorder .submit-button:focus,
+.wa-login-form-wrapper input[type=submit]:hover,
+.wa-login-form-wrapper input[type=submit]:focus,
+.wa-forgotpassword-form-wrapper input[type=submit]:hover,
+.wa-forgotpassword-form-wrapper input[type=submit]:focus,
+.wa-signup-form-wrapper input[type=submit]:hover,
+.wa-signup-form-wrapper input[type=submit]:focus,
+.wa-product-edit-dialog .wa-dialog-footer .wa-actions .wa-button:hover,
+.wa-product-edit-dialog .wa-dialog-footer .wa-actions .wa-button:focus {
+  background-color: #007caa;
+}
+
+.btn-secondary {
+  background-color: #70716f;
+  color: #fff;
+}
+
+.btn-secondary:hover, .btn-secondary:focus {
+  background-color: #636462;
+}
+
+.btn-success {
+  background-color: #5cb85c;
+}
+
+.btn-success:hover, .btn-success:focus {
+  background-color: #4cae4c;
+}
+
+.btn-info {
+  background-color: #5bc0de;
+}
+
+.btn-info:hover, .btn-info:focus {
+  background-color: #46b8da;
+}
+
+.btn-warning {
+  background-color: #f0ad4e;
+}
+
+.btn-warning:hover, .btn-warning:focus {
+  background-color: #eea236;
+}
+
+.btn-danger {
+  background-color: #d9534f;
+}
+
+.btn-danger:hover, .btn-danger:focus {
+  background-color: #d43f3a;
+}
+
+.btn.disabled, .btn:disabled, .btn[disabled],
+.storequickorder-button.disabled,
+.storequickorder-button:disabled,
+.storequickorder-button[disabled] {
+  background-color: #a2a2a2;
+  opacity: 0.4;
+}
+
+.btn-link, .btn-link:hover, .btn-link:focus {
+  color: #008fc3;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background: #f5f5f5;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  background-color: #008fc3;
+}
+
+.alert-success {
+  background-color: #dff0d8;
+  border-color: #b2dba1;
+}
+
+.alert-info {
+  background-color: #d9edf7;
+  border-color: #9acfea;
+}
+
+.alert-warning {
+  background-color: #fcf8e3;
+  border-color: #f5e79e;
+}
+
+.alert-danger {
+  background-color: #f2dede;
+  border-color: #dca7a7;
+}
+
+.progress {
+  background-color: #f5f5f5;
+}
+
+.progress-bar {
+  background-color: #008fc3;
+}
+
+.progress-bar-success {
+  background-color: #5cb85c;
+}
+
+.progress-bar-info {
+  background-color: #5bc0de;
+}
+
+.progress-bar-warning {
+  background-color: #f0ad4e;
+}
+
+.progress-bar-danger {
+  background-color: #d9534f;
+}
+
+.progress-bar-striped {
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+}
+
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+  background-color: #008fc3;
+  border-color: #00759f;
+}
+
+.panel-default > .panel-heading {
+  background-color: #f5f5f5;
+}
+
+.panel-success > .panel-heading {
+  background-color: #dff0d8;
+}
+
+.panel-info > .panel-heading {
+  background-color: #d9edf7;
+}
+
+.panel-warning > .panel-heading {
+  background-color: #fcf8e3;
+}
+
+.panel-danger > .panel-heading {
+  background-color: #f2dede;
+}
+
+.panel-primary {
+  border-color: #007caa;
+}
+
+.panel-primary > .panel-heading {
+  background-color: #008fc3;
+  border-color: #007caa;
+}
+
+.well {
+  background-color: #f5f5f5;
+}
+
+.pagination li a, .pagination li span {
+  color: #008fc3;
+}
+
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
+.pagination > .active > span,
+.pagination > .active > span:hover,
+.pagination > .active > span:focus,
+.pagination > .selected > a,
+.pagination > .selected > a:hover,
+.pagination > .selected > a:focus,
+.pagination > .selected > span,
+.pagination > .selected > span:hover,
+.pagination > .selected > span:focus {
+  background-color: #008fc3;
+  border-color: #008fc3;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+  background: #008fc3;
+}
+
+.footer1 .title, .f_madein a, .bottom_text .page-header * {
+  color: #00739d !important;
+}
+
+.h_contacts .phone, .h_cart .in .cart_summary, .side_news a:hover, #fixed_toolbar ul li a .count, .side_products .item:hover .name, .side_brands a:hover {
+  color: #008fc3 !important;
+}
+
+.fa {
+  color: #008fc3;
+}
+
+a,
+.wa-link {
+  color: #008fc3;
+}
+
+a:hover, a:focus,
+.wa-link:hover,
+.wa-link:focus {
+  color: #008fc3;
+}
+
+body .wa-link {
+  color: #008fc3;
+}
+
+body .wa-link:hover, body .wa-link:focus {
+  color: #008fc3;
+}
+
+.cb .slider .slick-dots li.slick-active button:after {
+  background: #008fc3;
+}
+
+@media all and (min-width: 768px) {
+  .menu_collapsible li > .link > a:hover,
+  .sub_all_levels li > .link > a:hover {
+    color: #008fc3 !important;
+  }
+  .side_menu_wrap .menu_dropdown > li:hover > .link > a,
+  .sub_dropdown.sub_one_level li:hover > .link > a {
+    color: #008fc3 !important;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .menubar .menu > li > .submenu .col > ul > li a:hover {
+    color: #008fc3 !important;
+  }
+}
+
+.h_menu1 .menu > li.active > .link a {
+  color: #008fc3;
+}
+
+.h_menu2.menu_color {
+  background-color: #008fc3;
+}
+
+.h_menu2.menu_color .menu_header {
+  background-color: #008fc3;
+}
+
+.h_menu2.menu_color .menu_toggle,
+.h_menu2.menu_color .menu > li > .link a {
+  color: #fff;
+}
+
+@media all and (max-width: 767px) {
+  .h_menu2.menu_color .menu li,
+  .h_menu2.menu_color .menu a {
+    color: #fff;
+  }
+}
+
+.h_menu2.menu_dark {
+  background-color: #5b5b5b;
+}
+
+.h_menu2.menu_dark .menu_header {
+  background-color: #5b5b5b;
+}
+
+#topnav .menu > li > a:hover {
+  color: #008fc3;
+}
+
+#fixed_toolbar ul li a:after {
+  background: #008fc3;
+}
+
+#fixed_toolbar ul li.added a {
+  background: #008fc3;
+}
+
+.side_menu_wrap .menu_dropdown > li:hover > .link > a {
+  color: #008fc3;
+}
+
+.side_menu_wrap .menu_dropdown > li.active > .link > a:before {
+  background: #008fc3;
+}
+
+.side_tags a:hover {
+  color: #008fc3;
+}
+
+.home_services .item_icon svg {
+  fill: #008fc3;
+}
+
+.product_page .add2cart .price {
+  color: #008fc3;
+}
+
+.product_page .more-images .image.selected a {
+  border-color: #008fc3;
+}
+
+.product_page .inline-select a.selected {
+  border-color: #008fc3;
+  box-shadow: 0 0 0 1px #008fc3;
+}
+
+.s-checkout-order-page .wa-order-cart-wrapper .wa-cart-details .wa-affiliate-section .wa-button.gray,
+.wa-order-form-wrapper .wa-step-confirm-section .wa-section-body .wa-submit-button,
+.wa-order-dialog .wa-dialog-body .wa-dialog-footer .wa-button.blue {
+  background-color: #008fc3;
+}
+
+.s-checkout-order-page .wa-order-cart-wrapper .wa-cart-details .wa-affiliate-section .wa-button.gray:hover, .s-checkout-order-page .wa-order-cart-wrapper .wa-cart-details .wa-affiliate-section .wa-button.gray:focus,
+.wa-order-form-wrapper .wa-step-confirm-section .wa-section-body .wa-submit-button:hover,
+.wa-order-form-wrapper .wa-step-confirm-section .wa-section-body .wa-submit-button:focus,
+.wa-order-dialog .wa-dialog-body .wa-dialog-footer .wa-button.blue:hover,
+.wa-order-dialog .wa-dialog-body .wa-dialog-footer .wa-button.blue:focus {
+  background-color: #007caa;
+}
+
+.wa-order-dialog .wa-dialog-body .wa-dialog-footer .wa-button.gray {
+  background-color: #70716f;
+  color: #fff;
+}
+
+.wa-order-dialog .wa-dialog-body .wa-dialog-footer .wa-button.gray:hover, .wa-order-dialog .wa-dialog-body .wa-dialog-footer .wa-button.gray:focus {
+  background-color: #636462;
+}
